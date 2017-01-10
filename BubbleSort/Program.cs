@@ -1,5 +1,7 @@
 ﻿using System;
-
+/// <summary>
+/// Выполнить сортировку пузырьком целочисленного массива.
+/// </summary>
 namespace BubbleSort
 {
     class Program
